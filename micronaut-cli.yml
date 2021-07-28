@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.rougarou
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, data, data-jdbc, graalvm, gradle, http-client, jdbc-hikari, junit, kotlin, kotlin-application, kotlin-extension-functions, logback, management, netty-server, postgres, properties, readme, shade, sql-jdbi, testcontainers]
